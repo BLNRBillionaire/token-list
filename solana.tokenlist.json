@@ -1,0 +1,9 @@
+{
+  "name": "Billionair",
+  "symbol": "BLNR",
+  "address": "3scKStJZA6hDmCHmBM9r7ZfAuUhvNgGJ1P2Tq1YD7GpB",
+  "decimals": 9,
+  "chainId": 101,
+  "logoURI": "https://raw.githubusercontent.com/BLNRBillionaire/token-list/main/assets/mainnet/3scKStJZA6hDmCHmBM9r7ZfAuUhvNgGJ1P2Tq1YD7GpB/logo.png",
+  "tags": ["community", "utility"]
+}
